@@ -59,9 +59,9 @@
             // 
             // cmdRotate
             // 
-            this.cmdRotate.Location = new System.Drawing.Point(257, 14);
+            this.cmdRotate.Location = new System.Drawing.Point(17, 14);
             this.cmdRotate.Name = "cmdRotate";
-            this.cmdRotate.Size = new System.Drawing.Size(78, 21);
+            this.cmdRotate.Size = new System.Drawing.Size(318, 21);
             this.cmdRotate.TabIndex = 0;
             this.cmdRotate.Text = "Rotate";
             this.cmdRotate.UseVisualStyleBackColor = true;
